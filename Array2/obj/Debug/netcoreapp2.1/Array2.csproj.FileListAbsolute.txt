@@ -1,0 +1,11 @@
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\bin\Debug\netcoreapp2.1\Array2.deps.json
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\bin\Debug\netcoreapp2.1\Array2.runtimeconfig.json
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\bin\Debug\netcoreapp2.1\Array2.runtimeconfig.dev.json
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\bin\Debug\netcoreapp2.1\Array2.dll
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\bin\Debug\netcoreapp2.1\Array2.pdb
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.csprojAssemblyReference.cache
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.AssemblyInfo.cs
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.dll
+C:\Users\Diego\Documents\CodiGO\Programas\Arrays\Array2\obj\Debug\netcoreapp2.1\Array2.pdb
